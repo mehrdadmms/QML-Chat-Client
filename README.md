@@ -8,7 +8,7 @@ This is a client application for windows build with QML & javascript & SQLite.
 
 This application gets users groups and channels from server with their chats and shows them.
 
-You can download this and run the codes and see for you self it sertainly isn't complete but it is a good start for those who want to make a chat application for windows using QML.
+You can download this and run the codes and see for you self it certainly isn't complete but it is a good start for those who want to make a chat application for windows using QML.
 
 #### Point 1
 Server may not work at the time you download this so you can remove connection to the server in functions (I will write which lines are connecting to the server at the end) or you can make you own server.
