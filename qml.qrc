@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Signup.qml</file>
+        <file>menu.qml</file>
+        <file>InitPage.qml</file>
+        <file>Channels.png</file>
+        <file>Groups.png</file>
+        <file>Users.png</file>
+        <file>CreateGroupOrJoinOne.qml</file>
+        <file>CreateChannelOrJoinOne.qml</file>
+        <file>Users.qml</file>
+        <file>Groups.qml</file>
+        <file>Channels.qml</file>
+        <file>Create_Channel_Or_Join_One.png</file>
+        <file>Create_Group_Or_Join_One.png</file>
+        <file>plus.png</file>
+        <file>NewConversation.qml</file>
+        <file>Conversation.qml</file>
+        <file>Welcome.qml</file>
+    </qresource>
+</RCC>
